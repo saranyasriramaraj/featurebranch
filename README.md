@@ -1,2 +1,2 @@
-First Line from feature1
-second line from feature1
+This is line from feature2
+second commit from feature2
